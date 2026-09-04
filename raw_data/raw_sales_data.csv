@@ -1,0 +1,209 @@
+order_id,order_date,sku,product_name,unit_price,quantity,region,channel,customer_email
+ORD1145,2026-02-17,sku-1009,Portable SSD 1TB,99.99,2,,In-Store,customer145@example.com
+ORD1188,2026/03/31,SKU-1008,Monitor Arm,67.3,2,North,In-Store,
+ORD1089,21/01/2026,SKU-1002,Mechanical Keyboard,89.99,1,South,online,customer89@example.com
+ORD1103,02/03/2026,SKU-1008,Monitor Arm,67.3,2,West,in-store,customer103@example.com
+ORD1049,2026/02/16,SKU-1004,Laptop Stand,45.0,5,north,Online,customer49@example.com
+ORD1005,03-19-2026,SKU-1006,Noise Cancelling Headphones,129.99,0,north,online,customer5@example.com
+ORD1144,03-18-2026,SKU-1005,Webcam 1080p,59.99,2,South,In-Store,customer144@example.com
+ORD1037,03-29-2026,SKU-1004,Laptop Stand,45.0,3,,online,customer37@example.com
+ORD1132,2026-01-27,SKU-1010,Bluetooth Speaker,41.2,2,north,in-store,customer132@example.com
+ORD1176,21/01/2026,SKU-1007,Desk Lamp,22.75,2,,Online,
+ORD1086,20/01/2026,SKU-1001,Wireless Mouse,24.99,3,North,in-store,customer86@example.com
+ORD1056,2026/04/10,SKU-1002,Mechanical Keyboard,89.99,0,North,phone,customer56@example.com
+ORD1143,03-13-2026,SKU-1010,Bluetooth Speaker,41.2,-1,East,In-Store,customer143@example.com
+ORD1029,2026-04-05,SKU-1010,Bluetooth Speaker,41.2,1,North,phone,customer29@example.com
+ORD1022,07/03/2026,SKU-1002,Mechanical Keyboard,89.99,0,South,phone,customer22@example.com
+ORD1162,01-08-2026,SKU-1010,Bluetooth Speaker,41.2,3,West,In-Store,
+ORD1195,2026/01/10,SKU-1001,Wireless Mouse,24.99,2,North,in-store,customer195@example.com
+ORD1090,2026-02-07,SKU-1008,Monitor Arm,67.3,3,N/A,In-Store,
+ORD1158,2026-03-07,SKU-1002,Mechanical Keyboard,89.99,2,,Online,customer158@example.com
+ORD1178,2026/01/19,sku-1009,Portable SSD 1TB,99.99,2,,In-Store,customer178@example.com
+ORD1053,2026-03-26,SKU-1003,USB-C Hub,34.5,5,North,in-store,customer53@example.com
+ORD1003,2026/04/02,SKU-1004,Laptop Stand,45.0,3,,online,customer3@example.com
+ORD1109,22/02/2026,SKU-1003,USB-C Hub,34.5,3,East,phone,customer109@example.com
+ORD1096,2026/03/16,SKU-1003,USB-C Hub,34.5,0,North,In-Store,customer96@example.com
+ORD1139,04-02-2026,sku-1009,Portable SSD 1TB,99.99,3,West,phone,customer139@example.com
+ORD1085,2026/05/01,SKU-1005,Webcam 1080p,59.99,1,West,In-Store,
+ORD1018,2026/01/11,SKU-1002,Mechanical Keyboard,89.99,2,South,In-Store,customer18@example.com
+ORD1067,2026-04-06,SKU-1001,Wireless Mouse,24.99,5,South,online,customer67@example.com
+ORD1153,2026/01/01,SKU-1002,Mechanical Keyboard,89.99,2,South,In-Store,customer153@example.com
+ORD9998,,SKU-1005,Webcam 1080p,59.99,1,West,online,noemail
+ORD1117,14/01/2026,SKU-1008,Monitor Arm,67.3,5,north,Online,customer117@example.com
+ORD1161,04-21-2026,SKU-1006,Noise Cancelling Headphones,129.99,1,West,In-Store,customer161@example.com
+ORD1055,2026/01/25,SKU-1010,Bluetooth Speaker,41.2,2,South,online,customer55@example.com
+ORD1138,2026-04-26,SKU-1002,Mechanical Keyboard,89.99,2,North,in-store,customer138@example.com
+ORD1108,03-17-2026,sku-1009,Portable SSD 1TB,99.99,0,North,phone,CUSTOMER108@EXAMPLE.COM
+ORD1009,01-29-2026,sku-1009,Portable SSD 1TB,99.99,1,South,online,customer9@example.com
+ORD1028,2026/02/06,SKU-1008,Monitor Arm,67.3,0,South,in-store,customer28@example.com
+ORD1124,04-19-2026,SKU-1007,Desk Lamp,22.75,-1,North,Online,customer124@example.com
+ORD1001,01-04-2026,SKU-1002,Mechanical Keyboard,89.99,2,N/A,online,customer1@example.com
+ORD1079,01-12-2026,SKU-1001,Wireless Mouse,24.99,2,East,phone,customer79@example.com
+ORD1046,2026-02-12,sku-1009,Portable SSD 1TB,99.99,3,South,phone,customer46@example.com
+ORD1121,01-12-2026,SKU-1003,USB-C Hub,34.5,-1,South,in-store,customer121@example.com
+ORD1128,2026/02/17,SKU-1008,Monitor Arm,67.3,2,West,online,customer128@example.com
+ORD1177,2026-03-12,SKU-1006,Noise Cancelling Headphones,129.99,1,East,online,customer177@example.com
+ORD1094,03-19-2026,SKU-1006,Noise Cancelling Headphones,,2,N/A,phone,CUSTOMER94@EXAMPLE.COM
+ORD1076,2026/03/27,SKU-1010,Bluetooth Speaker,41.2,0,,Online,customer76@example.com
+ORD1175,26/04/2026,SKU-1008,Monitor Arm,67.3,0,West,Online,customer175@example.com
+ORD1168,22/04/2026,SKU-1010,Bluetooth Speaker,41.2,2,East,Online,customer168@example.com
+ORD1141,2026/02/10,SKU-1002,Mechanical Keyboard,89.99,3,East,in-store,customer141@example.com
+ORD1189,2026-04-24,SKU-1004,Laptop Stand,45.0,3,north,In-Store,customer189@example.com
+ORD1193,2026-02-11,SKU-1005,Webcam 1080p,59.99,3,East,In-Store,customer193@example.com
+ORD1122,03-09-2026,SKU-1006,Noise Cancelling Headphones,129.99,3,,In-Store,customer122@example.com
+ORD1098,01-12-2026,SKU-1008,Monitor Arm,67.3,1,,In-Store,customer98@example.com
+ORD1063,10/03/2026,SKU-1007,Desk Lamp,22.75,3,West,In-Store,
+ORD1026,2026-02-26,SKU-1002,Mechanical Keyboard,89.99,1,North,in-store,customer26@example.com
+ORD1006,02-07-2026,sku-1009,Portable SSD 1TB,99.99,1,North,in-store,customer6@example.com
+ORD1002,2026/03/17,SKU-1002,Mechanical Keyboard,,1,South,in-store,CUSTOMER2@EXAMPLE.COM
+ORD1194,2026/02/14,SKU-1008,Monitor Arm,,5,north,In-Store,customer194@example.com
+ORD1020,2026/02/26,SKU-1006,Noise Cancelling Headphones,129.99,2,North,Online,
+ORD1100,2026-04-08,SKU-1008,Monitor Arm,67.3,2,East,In-Store,customer100@example.com
+ORD1169,2026-01-17,SKU-1007,Desk Lamp,22.75,-1,N/A,Online,customer169@example.com
+ORD1030,2026-01-21,sku-1009,Portable SSD 1TB,99.99,1,,in-store,
+ORD1141,2026/02/10,SKU-1002,Mechanical Keyboard,89.99,3,East,in-store,customer141@example.com
+ORD1119,03-19-2026,SKU-1004,Laptop Stand,45.0,2,north,Online,customer119@example.com
+ORD1069,03-01-2026,SKU-1004,Laptop Stand,45.0,2,north,phone,customer69@example.com
+ORD1025,01/02/2026,SKU-1002,Mechanical Keyboard,89.99,0,South,In-Store,customer25@example.com
+ORD1118,2026-02-05,SKU-1007,Desk Lamp,22.75,1,north,In-Store,customer118@example.com
+ORD1152,2026-01-08,SKU-1010,Bluetooth Speaker,41.2,2,,in-store,customer152@example.com
+ORD1101,22/03/2026,SKU-1001,Wireless Mouse,24.99,3,north,online,customer101@example.com
+ORD9999,2026-02-30,SKU-1002,  Mechanical Keyboard  ,89.99,2, North ,ONLINE,  bad_email  
+ORD1125,2026/03/16,SKU-1005,Webcam 1080p,59.99,5,North,in-store,customer125@example.com
+ORD1050,03-06-2026,SKU-1005,Webcam 1080p,59.99,5,West,Online,customer50@example.com
+ORD1115,04-26-2026,SKU-1008,Monitor Arm,67.3,2,North,In-Store,customer115@example.com
+ORD1192,2026-02-04,sku-1009,Portable SSD 1TB,99.99,1,West,phone,customer192@example.com
+ORD1013,2026-03-18,SKU-1007,Desk Lamp,22.75,0,north,Online,customer13@example.com
+ORD1191,2026/04/24,SKU-1007,Desk Lamp,22.75,-1,East,in-store,customer191@example.com
+ORD1160,2026/01/23,SKU-1002,Mechanical Keyboard,89.99,0,N/A,phone,customer160@example.com
+ORD1150,2026/03/26,SKU-1008,Monitor Arm,67.3,0,West,Online,customer150@example.com
+ORD1035,02-26-2026,SKU-1003,USB-C Hub,34.5,1,N/A,phone,customer35@example.com
+ORD1016,19/03/2026,sku-1009,Portable SSD 1TB,99.99,2,north,phone,customer16@example.com
+ORD1097,20/04/2026,SKU-1002,Mechanical Keyboard,89.99,0,East,In-Store,customer97@example.com
+ORD1031,2026-02-21,SKU-1004,Laptop Stand,45.0,2,north,phone,
+ORD1091,11/04/2026,SKU-1005,Webcam 1080p,59.99,2,N/A,in-store,customer91@example.com
+ORD1014,2026-03-29,SKU-1001,Wireless Mouse,24.99,3,,Online,customer14@example.com
+ORD1072,2026-04-11,SKU-1010,Bluetooth Speaker,41.2,-1,N/A,Online,
+ORD1066,2026/01/28,SKU-1006,Noise Cancelling Headphones,129.99,-1,East,In-Store,customer66@example.com
+ORD1048,01-25-2026,SKU-1010,Bluetooth Speaker,,-1,North,phone,customer48@example.com
+ORD1017,2026-01-03,SKU-1008,Monitor Arm,67.3,3,South,online,customer17@example.com
+ORD1107,01-06-2026,SKU-1007,Desk Lamp,22.75,-1,West,in-store,customer107@example.com
+ORD1023,2026/03/15,SKU-1010,Bluetooth Speaker,41.2,0,,In-Store,customer23@example.com
+ORD1092,08/01/2026,SKU-1002,Mechanical Keyboard,89.99,3,West,online,customer92@example.com
+ORD1139,04-02-2026,sku-1009,Portable SSD 1TB,99.99,3,West,phone,customer139@example.com
+ORD1170,2026/01/12,sku-1009,Portable SSD 1TB,99.99,1,East,Online,customer170@example.com
+ORD1140,20/04/2026,SKU-1002,Mechanical Keyboard,89.99,2,West,Online,customer140@example.com
+ORD1134,2026-01-17,SKU-1001,Wireless Mouse,24.99,2,north,Online,
+ORD1126,11/02/2026,sku-1009,Portable SSD 1TB,99.99,0,N/A,Online,customer126@example.com
+ORD1060,2026-02-10,SKU-1006,Noise Cancelling Headphones,129.99,2,West,in-store,customer60@example.com
+ORD1112,01-06-2026,SKU-1001,Wireless Mouse,24.99,3,East,Online,customer112@example.com
+ORD1179,2026/01/07,SKU-1007,Desk Lamp,22.75,2,West,online,CUSTOMER179@EXAMPLE.COM
+ORD1057,2026/01/18,SKU-1008,Monitor Arm,67.3,5,,In-Store,customer57@example.com
+ORD1130,04-26-2026,sku-1009,Portable SSD 1TB,99.99,3,South,online,customer130@example.com
+ORD1199,01-16-2026,sku-1009,Portable SSD 1TB,99.99,0,South,phone,customer199@example.com
+ORD1149,2026-03-18,SKU-1010,Bluetooth Speaker,41.2,2,South,phone,
+ORD1010,01-28-2026,SKU-1002,Mechanical Keyboard,89.99,0,West,In-Store,customer10@example.com
+ORD1059,2026/04/09,SKU-1005,Webcam 1080p,59.99,3,West,online,customer59@example.com
+ORD1113,14/03/2026,SKU-1007,Desk Lamp,22.75,1,north,In-Store,customer113@example.com
+ORD1196,05/01/2026,SKU-1008,Monitor Arm,67.3,5,East,In-Store,customer196@example.com
+ORD1088,2026-02-09,SKU-1007,Desk Lamp,22.75,1,,in-store,customer88@example.com
+ORD1110,2026/04/20,SKU-1006,Noise Cancelling Headphones,129.99,0,,phone,
+ORD1104,2026-04-21,SKU-1003,USB-C Hub,34.5,-1,East,phone,CUSTOMER104@EXAMPLE.COM
+ORD1184,02/04/2026,SKU-1004,Laptop Stand,45.0,1,north,Online,customer184@example.com
+ORD1062,2026/04/20,SKU-1001,Wireless Mouse,24.99,5,East,In-Store,customer62@example.com
+ORD1039,2026-03-13,SKU-1007,Desk Lamp,22.75,2,north,online,customer39@example.com
+ORD1163,2026-01-10,SKU-1005,Webcam 1080p,59.99,-1,West,phone,customer163@example.com
+ORD1038,2026-01-06,SKU-1005,Webcam 1080p,59.99,2,N/A,Online,customer38@example.com
+ORD1070,2026-02-09,SKU-1003,USB-C Hub,34.5,3,north,In-Store,customer70@example.com
+ORD1081,2026-02-10,SKU-1004,Laptop Stand,45.0,2,South,in-store,customer81@example.com
+ORD1114,19/01/2026,SKU-1010,Bluetooth Speaker,41.2,3,West,Online,customer114@example.com
+ORD1064,03/04/2026,SKU-1007,Desk Lamp,22.75,2,north,phone,
+ORD1004,02-13-2026,SKU-1007,Desk Lamp,22.75,5,North,online,customer4@example.com
+ORD1172,2026-04-17,sku-1009,Portable SSD 1TB,99.99,2,north,In-Store,customer172@example.com
+ORD1181,2026/04/08,SKU-1003,USB-C Hub,34.5,1,North,online,customer181@example.com
+ORD1054,2026-01-19,SKU-1004,Laptop Stand,,0,north,online,customer54@example.com
+ORD1074,25/02/2026,SKU-1003,USB-C Hub,34.5,3,north,phone,customer74@example.com
+ORD1099,2026/03/26,SKU-1001,Wireless Mouse,24.99,2,north,Online,customer99@example.com
+ORD1027,2026/04/21,SKU-1004,Laptop Stand,45.0,2,West,online,customer27@example.com
+ORD1084,2026-01-14,SKU-1008,Monitor Arm,67.3,0,West,In-Store,customer84@example.com
+ORD1068,01/02/2026,SKU-1001,Wireless Mouse,24.99,2,South,in-store,customer68@example.com
+ORD1012,2026/03/07,SKU-1003,USB-C Hub,34.5,1,,online,customer12@example.com
+ORD1146,2026-03-20,SKU-1010,Bluetooth Speaker,41.2,3,North,in-store,customer146@example.com
+ORD1008,2026-03-31,SKU-1005,Webcam 1080p,59.99,2,north,in-store,customer8@example.com
+ORD1011,03-10-2026,sku-1009,Portable SSD 1TB,99.99,-1,north,In-Store,customer11@example.com
+ORD1087,18/03/2026,SKU-1010,Bluetooth Speaker,41.2,-1,West,In-Store,customer87@example.com
+ORD1136,27/02/2026,SKU-1002,Mechanical Keyboard,89.99,1,N/A,phone,customer136@example.com
+ORD1155,2026/03/15,SKU-1006,Noise Cancelling Headphones,129.99,-1,East,online,customer155@example.com
+ORD1044,02-14-2026,SKU-1008,Monitor Arm,67.3,2,South,online,customer44@example.com
+ORD1159,2026-01-31,SKU-1003,USB-C Hub,34.5,2,South,phone,customer159@example.com
+ORD1024,2026/02/15,SKU-1007,Desk Lamp,22.75,1,N/A,online,
+ORD1137,2026/01/08,SKU-1001,Wireless Mouse,24.99,-1,N/A,online,customer137@example.com
+ORD1154,04-17-2026,sku-1009,Portable SSD 1TB,99.99,1,West,online,customer154@example.com
+ORD1171,25/01/2026,SKU-1008,Monitor Arm,67.3,2,North,Online,customer171@example.com
+ORD1071,17/03/2026,SKU-1002,Mechanical Keyboard,89.99,3,,phone,customer71@example.com
+ORD1082,04-08-2026,SKU-1010,Bluetooth Speaker,41.2,2,East,in-store,customer82@example.com
+ORD1051,28/03/2026,SKU-1007,Desk Lamp,22.75,3,West,phone,customer51@example.com
+ORD1065,2026-03-26,SKU-1010,Bluetooth Speaker,41.2,-1,South,In-Store,customer65@example.com
+ORD1021,2026-01-29,SKU-1010,Bluetooth Speaker,41.2,1,South,online,customer21@example.com
+ORD1073,2026/04/19,SKU-1001,Wireless Mouse,24.99,1,West,Online,customer73@example.com
+ORD1156,2026/04/13,SKU-1003,USB-C Hub,34.5,5,North,In-Store,customer156@example.com
+ORD1166,08/03/2026,sku-1009,Portable SSD 1TB,99.99,3,West,In-Store,customer166@example.com
+ORD1198,02-10-2026,SKU-1007,Desk Lamp,22.75,1,North,in-store,customer198@example.com
+ORD1083,01-17-2026,sku-1009,Portable SSD 1TB,,1,north,Online,customer83@example.com
+ORD1042,13/04/2026,SKU-1003,USB-C Hub,34.5,1,South,Online,customer42@example.com
+ORD1043,04/02/2026,SKU-1004,Laptop Stand,45.0,1,West,online,customer43@example.com
+ORD1078,2026/04/03,SKU-1004,Laptop Stand,45.0,2,N/A,In-Store,customer78@example.com
+ORD1040,25/02/2026,SKU-1003,USB-C Hub,,5,,online,customer40@example.com
+ORD1167,04-12-2026,SKU-1001,Wireless Mouse,24.99,1,north,In-Store,customer167@example.com
+ORD1197,2026/03/28,SKU-1003,USB-C Hub,34.5,5,West,online,customer197@example.com
+ORD1015,01-01-2026,SKU-1008,Monitor Arm,67.3,2,north,online,customer15@example.com
+ORD1129,01-05-2026,SKU-1005,Webcam 1080p,59.99,0,South,Online,customer129@example.com
+ORD1111,2026-01-30,SKU-1005,Webcam 1080p,59.99,1,,online,customer111@example.com
+ORD1185,03-09-2026,SKU-1002,Mechanical Keyboard,89.99,1,West,In-Store,
+ORD1047,2026/03/18,SKU-1002,Mechanical Keyboard,89.99,5,West,phone,customer47@example.com
+ORD1151,2026-02-25,SKU-1006,Noise Cancelling Headphones,129.99,0,north,Online,
+ORD1186,2026-02-02,SKU-1006,Noise Cancelling Headphones,129.99,1,East,in-store,customer186@example.com
+ORD1173,14/04/2026,SKU-1010,Bluetooth Speaker,41.2,1,West,Online,customer173@example.com
+ORD1089,21/01/2026,SKU-1002,Mechanical Keyboard,89.99,1,South,online,customer89@example.com
+ORD1133,2026-04-11,SKU-1003,USB-C Hub,34.5,2,South,phone,customer133@example.com
+ORD1187,04-05-2026,SKU-1010,Bluetooth Speaker,41.2,5,north,Online,customer187@example.com
+ORD1116,2026/03/23,SKU-1005,Webcam 1080p,59.99,0,,Online,customer116@example.com
+ORD1174,03-20-2026,SKU-1008,Monitor Arm,67.3,0,South,phone,customer174@example.com
+ORD1165,2026-04-02,SKU-1006,Noise Cancelling Headphones,129.99,2,North,in-store,customer165@example.com
+ORD1082,04-08-2026,SKU-1010,Bluetooth Speaker,41.2,2,East,in-store,customer82@example.com
+ORD1033,02-28-2026,SKU-1005,Webcam 1080p,59.99,1,North,In-Store,customer33@example.com
+ORD1019,2026/04/22,sku-1009,Portable SSD 1TB,99.99,2,N/A,Online,customer19@example.com
+ORD1148,12/01/2026,SKU-1001,Wireless Mouse,24.99,0,East,in-store,customer148@example.com
+ORD1105,2026/04/18,SKU-1005,Webcam 1080p,59.99,0,north,In-Store,customer105@example.com
+ORD1106,2026/02/18,sku-1009,Portable SSD 1TB,99.99,2,N/A,in-store,customer106@example.com
+ORD1135,2026/04/05,SKU-1003,USB-C Hub,34.5,1,West,In-Store,customer135@example.com
+ORD1123,2026-04-13,SKU-1006,Noise Cancelling Headphones,129.99,1,South,in-store,customer123@example.com
+ORD1102,2026-03-01,SKU-1002,Mechanical Keyboard,89.99,2,West,Online,customer102@example.com
+ORD1080,02-24-2026,SKU-1006,Noise Cancelling Headphones,129.99,0,East,Online,customer80@example.com
+ORD1017,2026-01-03,SKU-1008,Monitor Arm,67.3,3,South,online,customer17@example.com
+ORD1023,2026/03/15,SKU-1010,Bluetooth Speaker,41.2,0,,In-Store,customer23@example.com
+ORD1157,2026-02-21,SKU-1010,Bluetooth Speaker,41.2,3,N/A,Online,customer157@example.com
+ORD1034,10/01/2026,SKU-1002,Mechanical Keyboard,89.99,2,East,online,customer34@example.com
+ORD1190,05/01/2026,SKU-1005,Webcam 1080p,59.99,1,,Online,customer190@example.com
+ORD1120,2026-03-22,SKU-1003,USB-C Hub,34.5,1,East,In-Store,
+ORD1095,2026-03-15,SKU-1005,Webcam 1080p,59.99,2,West,phone,customer95@example.com
+ORD1147,2026-02-14,SKU-1006,Noise Cancelling Headphones,129.99,2,north,In-Store,
+ORD1142,2026-04-17,SKU-1002,Mechanical Keyboard,89.99,1,N/A,Online,customer142@example.com
+ORD1200,2026-01-26,SKU-1008,Monitor Arm,67.3,1,West,in-store,customer200@example.com
+ORD1007,2026-04-21,SKU-1004,Laptop Stand,45.0,0,N/A,Online,customer7@example.com
+ORD1127,01-05-2026,SKU-1001,Wireless Mouse,24.99,1,North,in-store,customer127@example.com
+ORD1061,2026/02/12,SKU-1007,Desk Lamp,22.75,2,,In-Store,customer61@example.com
+ORD1036,2026-02-03,SKU-1003,USB-C Hub,34.5,2,East,Online,customer36@example.com
+ORD1052,02-25-2026,SKU-1004,Laptop Stand,45.0,0,N/A,in-store,customer52@example.com
+ORD1032,03-14-2026,SKU-1010,Bluetooth Speaker,41.2,2,N/A,Online,customer32@example.com
+ORD1058,2026/02/24,sku-1009,Portable SSD 1TB,99.99,0,West,Online,customer58@example.com
+ORD1131,26/03/2026,SKU-1002,Mechanical Keyboard,89.99,1,North,Online,customer131@example.com
+ORD1093,05-01-2026,SKU-1007,Desk Lamp,22.75,0,West,online,customer93@example.com
+ORD1045,2026-04-21,SKU-1005,Webcam 1080p,59.99,3,East,phone,customer45@example.com
+ORD1164,27/02/2026,SKU-1001,Wireless Mouse,24.99,0,north,in-store,customer164@example.com
+ORD1180,04-18-2026,SKU-1002,Mechanical Keyboard,89.99,2,North,Online,customer180@example.com
+ORD1182,2026/05/01,sku-1009,Portable SSD 1TB,99.99,3,South,Online,customer182@example.com
+ORD1183,2026-02-28,SKU-1010,Bluetooth Speaker,41.2,0,north,phone,
+ORD1041,2026-03-27,SKU-1004,Laptop Stand,45.0,-1,north,in-store,customer41@example.com
+ORD1077,02-13-2026,SKU-1005,Webcam 1080p,59.99,3,north,online,customer77@example.com
+ORD1075,02-04-2026,SKU-1010,Bluetooth Speaker,41.2,1,East,In-Store,customer75@example.com
