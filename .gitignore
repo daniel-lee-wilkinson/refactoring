@@ -216,3 +216,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+/data/processed/sales/20260904_sales_clean.parquet

@@ -2,9 +2,11 @@
 name = "refactoring"
 version = "0.1.0"
 requires-python = ">=3.13"
-dependencies = []
-
-[tool.uv.workspace]
-members = [
-    "src/etl_pipeline/extract",
+dependencies = [
+    "ftfy>=6.3.1",
+    "pandas>=3.0.5",
 ]
+
+
+[tool.setuptools.packages.find]
+where = ["src"]
